@@ -13,9 +13,21 @@ Install
 =======
 
 ```html
-<script type="text/javascript" src="ContainerValidator.js"></script>
+<script type="text/javascript" src="index.js"></script>
 ```
- 
+
+Install using Yarn:
+====================
+
+yarn add container-validator
+
+
+Install using NPM:
+====================
+
+npm install container-validator
+
+
 Install using Bower:
 ====================
 
@@ -92,7 +104,7 @@ validator.generate('TEX','U',1, 100 ));
 
 Credits
 =======
-            
+
 
 Wonderpoint Software Pvt Ltd [wonderpoint.com](http://www.wonderpoint.com)
 

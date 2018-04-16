@@ -1,0 +1,28 @@
+{
+  "name": "container-validator",
+  "version": "1.0.0",
+  "description": "Cargo container validator ISO 6346 implemented in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrus/container-validator-js.git"
+  },
+  "keywords": [
+    "ISO6346",
+    "cargo",
+    "container",
+    "serial",
+    "number",
+    "validation",
+    "check-digit"
+  ],
+  "author": "sameersemna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/citrus/container-validator-js/issues"
+  },
+  "homepage": "http://container-validator.sameershemna.com/"
+}
