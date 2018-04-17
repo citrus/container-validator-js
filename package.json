@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/citrus/container-validator-js/issues"
   },
-  "homepage": "http://container-validator.sameershemna.com/"
+  "homepage": "http://container-validator.sameershemna.com/",
+  "dependencies": {
+    "container-validator": "^1.0.0"
+  }
 }
